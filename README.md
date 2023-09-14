@@ -1,2 +1,2 @@
-# Datasets & Images
-Where all tutorial datasets and images are stored
+# Medlytics Datasets & Images
+Where all datasets and images pertaining to course tutorials are stored.
